@@ -1,0 +1,404 @@
+body{ 
+    height:1040px;
+    width:1280px;
+    box-shadow: 0px 1px 20px rgba(159, 159, 159, 0.65);
+    margin:auto;
+    position:absolute;
+    left:200px;
+
+}
+
+.container{ 
+    box-shadow: 0px 1px 20px rgba(139, 139, 139, 0.65);
+
+    border-color: white;
+    background-color: white;
+    height:122px;
+width: 1280px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+
+
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    
+    
+    
+}
+.container1 {
+    height: 34px;
+    width: 269px;
+    left: 710px;
+    top: 44px;
+    border-radius:nullpx;
+    font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+color:#777777;
+    position:absolute;
+
+    background-color:white;
+}
+.container2{ 
+    height: 33px;
+width: 88px;
+left: 1002px;
+top: 45px;
+border-radius:nullpx;
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+color:#777777;
+position:absolute;
+    background-color:white;
+}
+.container3{ 
+    height: 33px;
+width: 122px;
+left: 1150px;
+top: 45px;
+border-radius: nullpx;
+
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+color:#777777;
+position:absolute;
+    background-color: white;
+
+}
+
+.img{ 
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    
+}
+
+h1{ 
+    height: 55px;
+    width: 585px;
+    left: 123px;
+    top: 177px;
+    border-radius: nullpx;
+    position:absolute;
+    font-style: Open Sans;
+    font-weight: 600px semi bold;
+    font-size:39px;
+    color:#575757;
+}
+
+label{ 
+    display:flex;
+    flex-direction:column;
+    height: 21px;
+width: 66.40302276611328px;
+left: 123px;
+top: 268px;
+border-radius: nullpx;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: #9B9B9B;
+
+}
+
+.nome{ 
+    height: 26px;
+width: 538px;
+left: 123px;
+top: 294px;
+border-radius: 0px;
+display:flex;
+position:absolute;
+flex-direction:column;
+
+}
+
+.email{ 
+    height: 26px;
+    width: 538px;
+    left: 123px;
+    top: 359px;
+    border-radius: 0px;
+    display:flex;
+    position:absolute;
+    flex-direction:column;
+    
+
+}
+
+.telefone{ 
+    height: 26px;
+    width: 538px;
+    left: 123px;
+    top: 424px;
+    border-radius: 0px;
+    display:flex;
+    position:absolute;
+    flex-direction:column;
+    
+}
+
+.departamentos{ 
+    height: 26px;
+    width: 538px;
+    left: 123px;
+    top: 489px;
+    border-radius: 0px;
+    display:flex;
+    position:absolute;
+    flex-direction:column;
+    
+}
+
+.disponibilidade{ 
+    height: 26px;
+    width: 528px;
+    left: 123px;
+    top: 558px;
+    border-radius: 0px;
+    display:flex;
+    position:absolute;
+    
+    
+    
+}
+.disponibilidade1{ 
+    top:583px;
+    display:flex;
+    position:absolute;
+    left:123px;
+    color:#777777;
+}
+
+.contato{  
+    
+    left: 123px;
+    border-radius: 0px;
+    position:absolute;
+    top:624px;
+    border-radius: nullpx;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+color: #9B9B9B;
+}
+
+.contato1{ 
+    position:absolute;
+    top:644px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    color:#777777;
+    left:123px;
+    margin-right:20px;
+}
+
+.mensagem{ 
+    position:absolute;
+    top:674px;
+    display:flex;
+    left:123px;
+
+}
+
+.mensagem1{ 
+    position:absolute;
+    top:700px;
+    display:flex;
+    left:123px;
+    color:#9B9B9B;
+}
+
+.curriculo{ 
+    top:754px;
+    display:flex;
+    position:absolute;
+    left:123px;
+}
+.curriculo1{ 
+    top:754px;
+    display:flex;
+    position:absolute;
+    left:213px;
+  
+
+}
+
+button{ 
+    top:24px;
+    width:537px;
+    height:33px;
+    right:100px;
+    color:white;
+    display: flex;
+    position:absolute;
+    background-color: #C2185B;
+    align-items:center;
+    justify-content:center;
+    
+
+    
+    
+}
+
+button:hover{ 
+    background-color:white;
+    color:#C2185B;
+    transition: 3s;
+    box-shadow: 0px 1px 20px rgba(159, 159, 159, 0.65);
+}
+
+.enviar{ 
+    top:804px;
+    display:flex;
+    position:absolute;
+    left:213px;
+    width:537px;
+ 
+}
+
+.texto{ 
+    display:flex;
+    justify-content:flex-end;
+    flex-direction:column;
+    top:268px;
+    position:absolute;
+}
+
+p{ 
+    position: absolute;
+width: 464px;
+height: 448px;
+left: 736px;
+top:0px;
+display:flex;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+color: #575757;
+    
+}
+
+.rodape{ 
+    width:1280px;
+    height:248px;
+    top:924px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color:#C2185B;
+    position:absolute;
+}
+
+.rodape1{ 
+    left: 123px;
+    position:absolute;
+    bottom:100px;
+}
+.texto1{ 
+    display:flex;
+    flex-direction:column;
+    height: 91px;
+width: 255px;
+left:123px;
+color:white;
+position:absolute;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+top:120px;
+border-radius: nullpx;
+
+}
+
+.texto2{ 
+    display:flex;
+    position:absolute;
+    flex-direction:column;
+    color:white;
+    
+
+    left: 537px;
+}
+
+.texto3{ 
+    display:flex;
+    position:absolute;
+    color:white;
+    flex-direction:column;
+    left:737px;
+    
+}
+
+.animação{ 
+    background-color:#C2185B;
+    width: 1280px;
+    height:50px;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-style: Open Sans;
+}
+
+/*@keyframes fantasma{ 
+    0%{ 
+        border:none;
+        opacity: 50%;
+    }
+    25%{ 
+        opacity:35%;
+    }
+    50% { 
+        opacity:60%;
+    }
+    100% { 
+        border: none;
+        opacity: 0%;
+    }
+}
+.animação{ 
+    animation: fantasma 4s infinite;
+}
+*/
+.animação:hover{ 
+    color:#C2185B;
+    background-color: white;
+    transition:3s;
+}
+.container1:hover{ 
+    color:#C2185B;
+    transition: 3s;
+    height:10px;
+    background-color:white;
+    border-radius:10px;
+    border:black 10px;
+
+}
